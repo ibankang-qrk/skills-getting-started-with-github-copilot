@@ -9,7 +9,7 @@ If you would like to retrace your steps, you can always revisit the exercise.
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ibankang-qrk/skills-getting-started-with-github-copilot/issues/1)
 
 > [!TIP]
-> Mona won't grade you this time! 😉
+> Iban won't grade you this time! 😉
 
 
 ### Craving more? :raising_hand:
