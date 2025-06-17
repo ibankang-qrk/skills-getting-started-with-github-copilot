@@ -4,7 +4,14 @@
 # https://aka.ms/yaml
 
 trigger:
-- main
+  branches:
+    include:
+      - '*'   # Trigger for all branches (Any push to any branch)
+
+pr:
+  branches:
+    include:
+      - '*'   # Trigger for Any pull request created or updated
 
 pool:
   vmImage: ubuntu-latest
